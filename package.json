@@ -4,7 +4,7 @@
   "homepage": "https://SIBIL7.github.io/sibil_s_weather_app",
   "private": true,
   "dependencies": {
-    "bootstrap": "*",
+    "bootstrap": "^3.3.7",
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
